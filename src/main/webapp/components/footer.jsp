@@ -1,5 +1,5 @@
 <footer>
-	<p>&copy; TECHNO CRACK SOLUTIONS</p>
+	<p>Made By- Harsh Dadiay</p>
 </footer>
 </body>
 
